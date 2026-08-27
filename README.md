@@ -26,7 +26,7 @@ A production-grade **Retrieval-Augmented Generation (RAG)** system for Brazilian
 - **Web Interface** with FastAPI + Jinja2
 - **Modular pipeline** (Rewriter → Searcher → Evaluator → Generator)
 
-### ✈️ [AirData ETL with Airflow](https://github.com/ita-airdata/airdata_etl_airflow)
+### ✈️ [AirData ETL with Airflow](https://github.com/AirData-ITA/ita-airdata-etl-airflow)
 Data engineering pipeline using **Apache Airflow** to orchestrate ETL processes for aviation data. Focused on:
 - Automated data extraction and transformation
 - Workflow orchestration
